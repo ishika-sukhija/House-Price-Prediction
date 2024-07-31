@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://perryhouseplans.com/wp-content/uploads/home-app-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;  /* Ensures text is readable */
+}
+
+/* Optional: Add some padding and styling to make the content stand out */
+.main {
+    background: rgba(175, 81, 81, 0.5);  /* Semi-transparent background for better readability */
+    padding: 20px;
+    border-radius: 10px;
+}
